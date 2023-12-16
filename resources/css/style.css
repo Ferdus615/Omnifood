@@ -36,7 +36,7 @@ body {
 
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url(img/hero.jpg);
+    url(./img/hero.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -410,6 +410,7 @@ cite img {
 
 .plan-box {
   border: 1px solid darkorange;
+  background-color: rgb(223, 240, 255);
   border-radius: 5px;
   width: 85%;
   margin-left: 5%;
